@@ -1,20 +1,30 @@
-# 💳 SmartPay – Expense & Rewards Tracker App
+# 💎 HabitEase – Daily Habit & Productivity Tracker
 
-SmartPay is a Flutter-based fintech app that helps users manage daily expenses, pay bills securely, and earn reward points for timely transactions — inspired by CRED’s premium design and smooth experience.
+HabitEase is a Flutter-based app that helps users build daily habits, visualize progress, and stay motivated through gamified rewards.
 
----
 ## ✨ Features
-- 🔐 **Firebase Authentication** — Secure Google & Email Sign-In
-- 💰 **Real-Time Expense Tracking** — Categories, limits, and insights
-- 🎁 **Rewards System** — Earn points and redeem for offers
-- 💳 **Razorpay API (Mock)** — Simulated payment flow
-- 🌗 **Dark Mode** — Minimal, adaptive theme
-- ⚡ **Smooth Animations** — Lottie + AnimatedContainer
-- ☁️ **Cloud Firestore** — Real-time sync of user data
+- 🧭 Create & Manage Habits
+- 📊 Analytics Dashboard (streaks, completion rates)
+- 🧠 Gamified Rewards with badges
+- ☁️ Firebase + Hive (offline support)
+- 🌙 Modern UI with animations
+- 🔔 Daily habit reminders
 
----
 ## 🧠 Tech Stack
-**Flutter**, **Dart**, **Firebase Auth**, **Cloud Firestore**, **Razorpay (Sandbox)**, **Provider**, **Lottie**
+Flutter, Dart, Firebase, Hive, Provider, Hero Animations, Lottie
 
----
-## 🧩 Folder Structure
+## 🚀 How to Run
+1. Click **Code → Download ZIP**
+2. Open folder in VS Code
+3. (Optional) Run `flutter pub get`
+4. Run `flutter run`
+
+## 📸 Screenshots (add later)
+| Home | Add Habit | Stats |
+|------|------------|-------|
+| <img src="assets/screenshots/home.png" width="200"/> | <img src="assets/screenshots/addhabit.png" width="200"/> | <img src="assets/screenshots/stats.png" width="200"/> |
+
+## 👩‍💻 Developer
+**Yashwika Kalagatla**  
+📧 yashikalagatla51105@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/yashwika-kalagatla)
